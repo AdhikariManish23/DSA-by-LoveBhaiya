@@ -18,8 +18,8 @@ using namespace std;
     
     }
     int main(){
-    int n;
-    cout<<"Array"<<endl;
+    
+    
     int odd[5] = {1,2,3,4,5};
     int even[6]= {2,4,6,8,10,12};
 
