@@ -1,3 +1,4 @@
+
 /* Find out the Total occurence of a element */
 
 #include<iostream>
@@ -51,8 +52,8 @@ using namespace std;
 
         int arr[9]= {1,2,4,4,4,4,4,5,6};
 
-        int first = First_Occurence(arr, 9, 4);
-        int last = last_Occurence(arr, 9, 4);
+        int first = First_Occurence(arr, 9, 5);
+        int last = last_Occurence(arr, 9, 5);
 
         int total_occurence = (last-first)+1;
 

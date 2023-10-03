@@ -124,10 +124,10 @@ using namespace std;
     }
     int main(){
     
-    int arr[]= {1,2,2,3,3,4,5};
+    int arr[]= {1,2,2,2,3,4,5};
 
     cout<<" First Occurence of 2 in Index is : "<<First_Occurence(arr, 7 , 2)<<endl;
-    cout<<" First Occurence of 2 in Index is : "<<last_Occurence(arr, 7 , 2);
+    cout<<" Last Occurence of 2 in Index is : "<<last_Occurence(arr, 7 , 2);
     
 
      return 0;
