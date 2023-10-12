@@ -1,3 +1,5 @@
+
+
 #include<vector>
 #include<iostream>
 
@@ -15,6 +17,9 @@ bool isPossible(vector<int>arr ,int n ,int m, int mid){
                 return false;
             }
             page = arr[i];
+            /* we can also write this 
+            page = 0;
+            page = arr[i]; */
         }
     }
     return true;
