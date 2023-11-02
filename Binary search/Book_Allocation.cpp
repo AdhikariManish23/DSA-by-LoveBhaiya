@@ -52,7 +52,7 @@ int main() {
     int n = 4;
     int arr[] = {10, 20, 30, 40};
     int m = 2;
-    int result = BookAllocate(vector<int>(arr, arr + n), n, m);
+    int result = BookAllocate(vector<int>(arr, arr + n), n, m);/// smjh nhi aaya
     cout << "Minimum pages allocated: " << result << endl;
     
     return 0;
