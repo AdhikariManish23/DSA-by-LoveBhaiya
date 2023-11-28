@@ -5,7 +5,8 @@ int reverse(int n ){
 
 int reminder; 
 int rev = 0;
-
+//     quotient = dividend / divisor;
+//     remainder = dividend % divisor;
 
 while( n > 0 ){
     reminder = n % 10 ;
