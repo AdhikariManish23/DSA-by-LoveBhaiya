@@ -9,6 +9,7 @@ using namespace std;
     cin >> n;
     while( n != 0){
         cout << n%10 ;
+        //cout<<endl;
 
     /*  This line outputs the last digit of the current 
         value of n by using the modulo operator (%) with 10.
