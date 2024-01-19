@@ -51,9 +51,9 @@ using namespace std;
 
     int main(){
     
-   int rows, cols;
-    cout << "Enter the number of rows and columns: "<<endl;
-    cin >> rows >> cols;
+     int rows, cols;
+     cout << "Enter the number of rows and columns: "<<endl;
+     cin >> rows >> cols;
 
     vector<vector<int>> arr(rows, vector<int>(cols));
     cout << "Enter the values:" << endl;
