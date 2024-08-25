@@ -4,7 +4,7 @@
  First and Last Position of an Element In Sorted Array 
  
  example:  input = 1,2,3,4,3,3,5,3     element = 3 (find the first and last occurence of 3)
-           output = 2 7 
+           output = 2 7 (index)
  
  */
 

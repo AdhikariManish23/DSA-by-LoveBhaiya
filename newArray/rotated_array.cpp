@@ -13,7 +13,7 @@ void rotate(vector<int> &nums, int k) {
 
 int main() {
     vector<int> nums = {6, 8, 3, 4, 5};
-    int k = 2;
+    int k = 4;
 
     rotate(nums, k);
 
