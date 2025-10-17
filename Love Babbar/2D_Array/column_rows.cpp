@@ -9,22 +9,23 @@ int main(){
 
     // cout<<arr2[1][3];
     
-    cout<<"Enter the values for row "<<endl;
-    // Taking input a 2D arra --> row wise
-    for( int row = 0 ; row < 3 ; row++){
-        for(int col = 0 ; col < 4; col++){
-            cin>>arr[row][col];
-        }
-    }  
+    // cout<<"Enter the values for row "<<endl;
+    // // Taking input a 2D arra --> row wise
+    // for( int row = 0 ; row < 3 ; row++){
+    //     for(int col = 0 ; col < 4; col++){
+    //         cin>>arr[row][col];
+    //     }
+    // }  
 
-    // printing
+    // // printing
 
-    for( int row = 0 ; row < 3 ; row++){
-        for(int col = 0 ; col < 4; col++){
-            cout<<arr[row][col]<<" ";
-        }
-        cout<<endl;
-    } 
+
+    // for( int row = 0 ; row < 3 ; row++){
+    //     for(int col = 0 ; col < 4; col++){
+    //         cout<<arr[row][col]<<" ";
+    //     }
+    //     cout<<endl;
+    // } 
 
     cout<<"Enter the values for column "<<endl;
     // Taking input a 2D array --> column wise)
